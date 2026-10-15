@@ -120,7 +120,8 @@ outputs/            tables, charts and summary (created when you run it)
 
 ## About the code
 
-I built this project with help from Claude, an AI coding assistant. I chose the question and the stocks, ran the code, and read the results. The tests check that the regression finds relationships that were planted in made-up data, so the method is checked before it is trusted on real data.
+I built this project with help from Claude code assistant.
+I also tested the code on made-up data with a known answer, to make sure it measures correctly before using it on real stocks.
 
 ## Author
 
